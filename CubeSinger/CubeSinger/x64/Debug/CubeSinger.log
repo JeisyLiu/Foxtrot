@@ -1,0 +1,8 @@
+﻿  GraphicModule.cpp
+e:\projects of vs\cubesinger\cubesinger\graphicmodule.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\projects of vs\cubesinger\cubesinger\graphicmodule.cpp(137): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+e:\projects of vs\cubesinger\cubesinger\graphicmodule.cpp(138): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+e:\projects of vs\cubesinger\cubesinger\graphicmodule.cpp(158): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\projects of vs\cubesinger\cubesinger\graphicmodule.cpp(159): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\projects of vs\cubesinger\cubesinger\graphicmodule.cpp(160): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  CubeSinger.vcxproj -> E:\Projects of VS\CubeSinger\x64\Debug\CubeSinger.exe
